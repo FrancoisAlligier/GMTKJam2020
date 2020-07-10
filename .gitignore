@@ -1,3 +1,7 @@
+Engine/Saved/
+Engine/DerivedDataCache/
+Engine/Intermediate/
+
 # Visual Studio 2015 user specific files
 .vs/
 
